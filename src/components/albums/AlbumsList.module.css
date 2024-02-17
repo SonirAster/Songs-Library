@@ -1,0 +1,26 @@
+.AlbumsList {
+    padding-left: 10%;
+    background: rgba(222, 222, 222, 0.7);
+    margin: 0;
+}
+
+.AlbumsList img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #000;
+}
+
+.AlbumsList a {
+    text-decoration: none;
+    color: black;
+}
+
+.AlbumsDescription {
+    padding: 5px;
+    font-size: 150%;
+}
+
+.AlbumTitle {
+    margin: 0;
+}

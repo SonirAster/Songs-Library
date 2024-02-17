@@ -1,0 +1,19 @@
+.footer {
+    background: rgb(71, 69, 71);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 45px;
+    border-top: 1px solid white;
+    color: gold;
+}
+.footer a{
+    text-decoration: none;
+    color: gold;
+}
+.footer a:hover {
+    color: #FF4500;
+}
+.footer a:active {
+    color: #FFA500;
+}

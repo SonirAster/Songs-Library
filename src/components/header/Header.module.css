@@ -1,0 +1,21 @@
+.header {
+    background: rgb(71, 69, 71);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 45px;
+    border-bottom: 1px solid white;
+    top: 0;
+    position: sticky;
+}
+.header a{
+    
+    text-decoration: none;
+    color: gold;
+}
+.header a:hover {
+    color: #FF4500;
+}
+.header a:active {
+    color: #FFA500;
+}
